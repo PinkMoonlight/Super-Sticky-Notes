@@ -1,13 +1,13 @@
 {
-  "main.css": "/Super-Sticky-Notes/static/css/main.02bd8299.chunk.css",
-  "main.js": "/Super-Sticky-Notes/static/js/main.7e95b4bd.chunk.js",
-  "main.js.map": "/Super-Sticky-Notes/static/js/main.7e95b4bd.chunk.js.map",
+  "main.css": "/Super-Sticky-Notes/static/css/main.3e6edd3c.chunk.css",
+  "main.js": "/Super-Sticky-Notes/static/js/main.7a980005.chunk.js",
+  "main.js.map": "/Super-Sticky-Notes/static/js/main.7a980005.chunk.js.map",
   "runtime~main.js": "/Super-Sticky-Notes/static/js/runtime~main.7374a95a.js",
   "runtime~main.js.map": "/Super-Sticky-Notes/static/js/runtime~main.7374a95a.js.map",
   "static/js/2.0d7b7b53.chunk.js": "/Super-Sticky-Notes/static/js/2.0d7b7b53.chunk.js",
   "static/js/2.0d7b7b53.chunk.js.map": "/Super-Sticky-Notes/static/js/2.0d7b7b53.chunk.js.map",
   "index.html": "/Super-Sticky-Notes/index.html",
-  "precache-manifest.08fac510b0fd05a0e7e81fd1ef6deef8.js": "/Super-Sticky-Notes/precache-manifest.08fac510b0fd05a0e7e81fd1ef6deef8.js",
+  "precache-manifest.ade0bf02d4367a5b9647db379480220e.js": "/Super-Sticky-Notes/precache-manifest.ade0bf02d4367a5b9647db379480220e.js",
   "service-worker.js": "/Super-Sticky-Notes/service-worker.js",
-  "static/css/main.02bd8299.chunk.css.map": "/Super-Sticky-Notes/static/css/main.02bd8299.chunk.css.map"
+  "static/css/main.3e6edd3c.chunk.css.map": "/Super-Sticky-Notes/static/css/main.3e6edd3c.chunk.css.map"
 }
