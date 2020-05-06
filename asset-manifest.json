@@ -1,5 +1,5 @@
 {
-  "main.css": "/Super-Sticky-Notes/static/css/main.48269ca3.chunk.css",
+  "main.css": "/Super-Sticky-Notes/static/css/main.25b9b343.chunk.css",
   "main.js": "/Super-Sticky-Notes/static/js/main.7a980005.chunk.js",
   "main.js.map": "/Super-Sticky-Notes/static/js/main.7a980005.chunk.js.map",
   "runtime~main.js": "/Super-Sticky-Notes/static/js/runtime~main.7374a95a.js",
@@ -7,7 +7,7 @@
   "static/js/2.0d7b7b53.chunk.js": "/Super-Sticky-Notes/static/js/2.0d7b7b53.chunk.js",
   "static/js/2.0d7b7b53.chunk.js.map": "/Super-Sticky-Notes/static/js/2.0d7b7b53.chunk.js.map",
   "index.html": "/Super-Sticky-Notes/index.html",
-  "precache-manifest.7cd97b5aaa3a4329e02bb8d481926dbe.js": "/Super-Sticky-Notes/precache-manifest.7cd97b5aaa3a4329e02bb8d481926dbe.js",
+  "precache-manifest.e74c4923946f499d77727b0ccbc22409.js": "/Super-Sticky-Notes/precache-manifest.e74c4923946f499d77727b0ccbc22409.js",
   "service-worker.js": "/Super-Sticky-Notes/service-worker.js",
-  "static/css/main.48269ca3.chunk.css.map": "/Super-Sticky-Notes/static/css/main.48269ca3.chunk.css.map"
+  "static/css/main.25b9b343.chunk.css.map": "/Super-Sticky-Notes/static/css/main.25b9b343.chunk.css.map"
 }
